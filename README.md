@@ -1,3 +1,3 @@
-loading High_Python_Part and Middle_Python_Part in a few days. 
+I will load High_Python_Part and Middle_Python_Part in a few days. 
 
 just wait for a moment...
