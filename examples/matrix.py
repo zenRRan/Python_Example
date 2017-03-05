@@ -9,6 +9,6 @@ def Matrix_ops(mat):
     a, _ = np.linalg.eig(mat) #a是特征值，_是特征向量
     print("特征值：\n", a)
 
-mat = np.array([[1,2],
+mat = np.matrix([[1,2],
                 [3,4]])
 Matrix_ops(mat)
